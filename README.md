@@ -37,8 +37,25 @@ A smart door lock system using the **ESP32-CAM** module, enabling face recogniti
 - Face Detection and Recognition  
 - Wireless operation via Wi-Fi  
 - Contactless Smart Locking System  
-- Arduino IDE Compatible  
+- Arduino IDE Compatible  ![WhatsApp Image 2025-04-17 at 00 07 03](https://github.com/user-attachments/assets/f5cab7ad-7975-47d4-bac9-65d101469554)
+
 - Real-time access control
+  ![WhatsApp Image 2025-04-17 at 00 07 04 (1)](https://github.com/user-attachments/assets/bceb24ca-f777-4362-a0f2-ab65a7f2016c)
+  ![WhatsApp Image 2025-04-17 at 00 07 03](https://github.com/user-attachments/assets/04ed630b-e680-4118-a9f6-2de43f07dfa6)
+
+
+
+
+
+https://github.com/user-attachments/assets/03ae5ab4-0d76-4f71-b2ad-bed2e1f387fb
+
+
+
+
+https://github.com/user-attachments/assets/4ea6918d-46f0-4404-9497-10d40f78d638
+
+
+
 
 
 
